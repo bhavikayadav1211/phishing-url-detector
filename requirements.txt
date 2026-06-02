@@ -1,3 +1,4 @@
 pandas
 numpy
 sci-kit learn 
+opencv-python
